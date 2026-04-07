@@ -6,7 +6,7 @@ An interactive dashboard for analyzing retail sales data with built-in forecasti
 
 ## Dashboard Preview
 
-![Overview](assets/screenshots/img1.png)
+![Overview](Dashboards/img1.png)
 
 ## Features
 
