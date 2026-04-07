@@ -4,6 +4,10 @@ An interactive dashboard for analyzing retail sales data with built-in forecasti
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red) ![Plotly](https://img.shields.io/badge/Plotly-5.18+-purple)
 
+## Dashboard Preview
+
+![Overview](assets/screenshots/img1.png)
+
 ## Features
 
 - **KPI Cards** — Total Sales, Profit, Orders, Margin, Avg Order Value
